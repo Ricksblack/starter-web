@@ -17,7 +17,7 @@ oajifajoeijoe
 
 ##How to contribute
 
-jioajfoiejiojoeijoiajfoe
+pelase fork this
 
 ##Copyright
 
