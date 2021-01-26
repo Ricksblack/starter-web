@@ -18,3 +18,8 @@ oajifajoeijoe
 ##How to contribute
 
 jioajfoiejiojoeijoiajfoe
+
+##Copyright
+
+2021 copyright
+
