@@ -21,5 +21,5 @@ pelase fork this
 
 ##Copyright
 
-2021 copyright
+2021 copyright, All rights reserved
 
